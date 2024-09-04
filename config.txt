@@ -1,0 +1,16 @@
+# Drill start and end positions
+drill_start_x = 18
+drill_start_y = 102
+drill_end_x = 183
+drill_end_y = 100
+
+# Drill width in pixels
+drill_width = 17
+
+# Hot spot start location and size
+hotspot_x = 112
+hotspot_y = 35
+hotspot_size = 11
+
+# Hot spot temperature threshold
+hotspot_temp_threshold = 35.0
